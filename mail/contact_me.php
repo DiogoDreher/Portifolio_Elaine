@@ -1,11 +1,5 @@
 <?php
 // Check for empty fields
-var_dump( $_POST['name']);
-echo $_POST['name'];
-echo $_POST['email'];
-echo $_POST['phone'];
-echo $_POST['message'];
-die();
 if(empty($_POST['name']) || empty($_POST['email']) ||  empty($_POST['message']) || !filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
   http_response_code(500);
   exit();
