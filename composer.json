@@ -1,0 +1,20 @@
+{
+    "name": "diogo/portifolio_elaine",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DiogoDreher",
+            "email": "diogo.oliveira@my.istec.pt"
+        }
+    ],
+    "require": {
+      "php": "^7.2.0",
+        "components/bootstrap": "^4.4",
+        "components/jquery": "^3.4",
+        "fortawesome/font-awesome": "^5.12",
+        "dimsemenov/magnific-popup": "^1.1"
+    },
+      "require-dev": {
+      "heroku/heroku-buildpack-php" : "dev-master"
+  }
+}
