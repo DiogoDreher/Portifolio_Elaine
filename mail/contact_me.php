@@ -43,9 +43,9 @@ $mail->SMTPOptions = array(
 $mail->SMTPDebug = SMTP::DEBUG_SERVER;
 
 //Set the hostname of the mail server
-$mail->Host = 'smtp.gmail.com';
+//$mail->Host = 'smtp.gmail.com';
 // use
-// $mail->Host = gethostbyname('smtp.gmail.com');
+$mail->Host = gethostbyname('smtp.gmail.com');
 // if your network does not support SMTP over IPv6
 
 //Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
@@ -58,10 +58,10 @@ $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 $mail->SMTPAuth = true;
 
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = 'elainecarval91@gmail.com';
+$mail->Username = 'portifelaine@gmail.com';
 
 //Password to use for SMTP authentication
-$mail->Password = 'p6wnt6bmkj';
+$mail->Password = 'pelancapura';
 
 //Set who the message is to be sent from
 $mail->setFrom('from@example.com', 'Contato Portifólio');
