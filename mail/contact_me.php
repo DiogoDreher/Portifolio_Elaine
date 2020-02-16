@@ -10,7 +10,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 
-require '../vendor/autoload.php';
+require './vendor/autoload.php';
 
 //Create a new PHPMailer instance
 $mail = new PHPMailer;
@@ -25,25 +25,26 @@ $mail->isSMTP();
 $mail->SMTPDebug = SMTP::DEBUG_SERVER;
 
 //Set the hostname of the mail server
-$mail->Host = gethostbyname('ssl://smtp.gmail.com');
+$mail->Host = 'localhost';
 // use
 // $mail->Host = gethostbyname('smtp.gmail.com');
 // if your network does not support SMTP over IPv6
 
 //Set the SMTP port number - 587 for authenticated TLS, a.k.a. RFC4409 SMTP submission
-$mail->Port = 587;
+$mail->Port = 25;
 
 //Set the encryption mechanism to use - STARTTLS or SMTPS
-$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+//$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 
 //Whether to use SMTP authentication
-$mail->SMTPAuth = true;
+$mail->SMTPAuth = false;
+$mail->SMTPAutoTLS = false;
 
 //Username to use for SMTP authentication - use full email address for gmail
-$mail->Username = 'elainecarval91@gmail.com';
+//$mail->Username = 'elainecarval91@gmail.com';
 
 //Password to use for SMTP authentication
-$mail->Password = 'p6wnt6bmkj';
+//$mail->Password = 'p6wnt6bmkj';
 
 //Set who the message is to be sent from
 $mail->setFrom('from@example.com', 'First Last');
