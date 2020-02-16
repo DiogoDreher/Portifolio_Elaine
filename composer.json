@@ -14,7 +14,8 @@
         "fortawesome/font-awesome": "^5.12",
         "dimsemenov/magnific-popup": "^1.1",
         "phpmailer/phpmailer": "^6.1",
-        "league/oauth2-client": "^2.4"
+        "league/oauth2-client": "^2.4",
+        "sendgrid/sendgrid": "~5.0.9"
     },
       "require-dev": {
       "heroku/heroku-buildpack-php" : "dev-master"
