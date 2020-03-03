@@ -341,8 +341,8 @@
                 <!-- Portfolio Modal - Image -->
                 <iframe title="vimeo-player" src="https://player.vimeo.com/video/390996621"  height="472px" frameborder="0" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-                
+                <p class="mb-5">Maracujá Roxo’s vlog. On this video we show in a fun and informative way some weird foods that you can find in Berlin City.</p>
+
               </div>
             </div>
           </div>
@@ -377,7 +377,7 @@
                 <!-- Portfolio Modal - Image -->
                 <iframe src="https://player.vimeo.com/video/390995560" height="472" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">Opening for Maracujá Roxo’s Instagram. “Economara” is a weekly supermarket section posted on Instagram Stories.</p>
 
               </div>
             </div>
@@ -413,7 +413,7 @@
                 <!-- Portfolio Modal - Image -->
                 <iframe src="https://player.vimeo.com/video/391053746" height="472" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">Opening for Maracujá Roxo’s Instagram. “Agenda Cultural” is a weekly cultural section posted on Instagram Stories.</p>
 
               </div>
             </div>
@@ -449,7 +449,7 @@
                 <!-- Portfolio Modal - Image -->
                 <iframe src="https://player.vimeo.com/video/391056143" width="472" height="472" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">A sum up video about a talk.</p>
 
               </div>
             </div>
