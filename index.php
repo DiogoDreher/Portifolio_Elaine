@@ -131,7 +131,7 @@
         </div>
 
         <!-- Portfolio Item 4 -->
-        <div class="col-md-4 col-lg-4 col-lg-offset-4 col-md-offset-4">
+        <div class="col-md-4 col-lg-4 offset-md-4 offset-lg-4">
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
               <div class="portfolio-item-caption-content text-center text-white">
