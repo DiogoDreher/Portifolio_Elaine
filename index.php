@@ -55,7 +55,7 @@
     <div class="container d-flex align-items-center flex-column">
 
       <!-- Masthead Avatar Image -->
-      <img class="masthead-avatar mb-5" style="border-radius: 120px;" src="img/elaine.webp" alt="">
+      <img class="masthead-avatar mb-5" style="border-radius: 120px;" src="img/elaine.jpeg" alt="">
 
       <!-- Masthead Heading -->
       <h1 class="masthead-heading text-uppercase mb-0">ELAINE CARVALHO</h1>
@@ -194,7 +194,7 @@
           <p class="lead">I'm a Journalist currently working as a freelancer Video Editor. I started on this field back in 2013 whilst still in college. <br /> I'm super passionate about Audiovisual because I believe this is the most democratic way to convey messages.</p>
         </div>
         <div class="col-lg-4 mr-auto">
-          <p class="lead">Nowadays I'm the leading Video Editor and Videomaker at <a style="color:#2c3e50;" target="_blank" href="http://www.instagram.com/maracujaroxo">Maracujá Roxo</a> where you can check a piece of my work. Hope I can hear from you, be it to talk business or maybe just chat about Harry Potter.</p>
+          <p class="lead">Nowadays I'm the leading Video Editor and Videomaker at <a style="color:#fff; text-decoration: underline;" target="_blank" href="http://www.instagram.com/maracujaroxo"><em>Maracujá Roxo</em></a> where you can check a piece of my work. Hope I can hear from you, be it to talk business or maybe just chat about Harry Potter #PotterHead</p>
         </div>
       </div>
 
@@ -343,7 +343,7 @@
                 <!-- Portfolio Modal - Image -->
                 <iframe title="vimeo-player" src="https://player.vimeo.com/video/390996621"  height="472px" frameborder="0" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Maracujá Roxo’s vlog. On this video we show in a fun and informative way some weird foods that you can find in Berlin City.</p>
+                <p class="mb-5">Maracujá Roxo’s IGTV vlog. On this video we show in a fun and informative way some weird foods that you can find in Berlin City.</p>
 
               </div>
             </div>
