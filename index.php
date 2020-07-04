@@ -130,6 +130,18 @@
           </div>
         </div>
 
+        <!-- Portfolio Item 5 -->
+        <div class="col-md-12 col-lg-12" style="margin-bottom: -26%;">
+          <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5" style="max-height: 50%; max-width: 100%;">
+            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+              <div class="portfolio-item-caption-content text-center text-white">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/vegandgo.bmp" alt="" >
+          </div>
+        </div>
+
         <!-- Portfolio Item 4 -->
         <div class="col-md-4 col-lg-4 offset-md-4 offset-lg-4">
           <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
@@ -142,17 +154,7 @@
           </div>
         </div>
 
-        <!-- Portfolio Item 5 -->
-        <!-- <div class="col-md-6 col-lg-4">
-          <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
-            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-              <div class="portfolio-item-caption-content text-center text-white">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" src="img/portfolio/safe.png" alt="">
-          </div>
-        </div> -->
+
 
         <!-- Portfolio Item 6 -->
         <!-- <div class="col-md-6 col-lg-4">
@@ -475,19 +477,19 @@
             <div class="row justify-content-center">
               <div class="col-lg-8">
                 <!-- Portfolio Modal - Title -->
-                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Banner Veg&Go</h2>
                 <!-- Icon Divider -->
                 <div class="divider-custom">
                   <div class="divider-custom-line"></div>
                   <div class="divider-custom-icon">
-                    <i class="fas fa-star"></i>
+                    <i class="fas fa-film"></i>
                   </div>
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="img/portfolio/safe.png" alt="">
+                <iframe src="https://player.vimeo.com/video/435334019" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 <!-- Portfolio Modal - Text -->
-                <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p class="mb-5">Main homepage banner for Veg&Go website. Veg&Go is a project that gathers information about Vegan and Vegetarian places in Porto - Portugal.</p>
 
               </div>
             </div>
